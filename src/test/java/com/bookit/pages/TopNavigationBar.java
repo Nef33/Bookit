@@ -36,6 +36,7 @@ public abstract class TopNavigationBar {
 		Actions actions = new Actions(Driver.get());
 		actions.moveToElement(my).perform();
 		self.click();
+		//nihhikjoipoikpo;uyjgj hkjijli
 	}
 
 	public void goToTeam() {
